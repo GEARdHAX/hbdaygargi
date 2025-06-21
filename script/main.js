@@ -20,7 +20,7 @@ window.addEventListener("load", () => {
 const URL1 = document.getElementsByClassName("final-img")[0];
 URL1.addEventListener("click", () => {
  // window.location.href = "https://youtu.be/8SgbcLtZaVY?si=jpWZXeU7QT2qeGTI"
- window.open("https://www.youtube.com/watch?v=dQw4w9WgXcQ", "_blank");
+ window.open("https://drive.google.com/file/d/1FwkB8iaBtIY0fzMaEP0OSWQ8GJPqGLo5/view?usp=sharing", "_blank");
 });
 // animation timeline
 const animationTimeline = () => {
